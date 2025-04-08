@@ -1,6 +1,7 @@
 {
 "ovpn_file":[
-  {"id":0,"file":"client
+  {"id":0,"file":"
+  client
 server-poll-timeout 4
 nobind
 remote 34.58.180.159 1194 udp
@@ -75,6 +76,6 @@ cf6e8c6baee9fe274a03fdafa69cd2df
 f85e1b1c57ac24153c2e3487647637cc
 cc216c737e22c4e67269a8463876d01e
 -----END OpenVPN Static key V1-----
-</tls-crypt>,
-{"id":1,"file":""}]
+</tls-crypt>
+  }
 }
